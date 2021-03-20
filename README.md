@@ -26,13 +26,17 @@ def new_game():
 6. The game can be reset (start again) any time.
 7. The user must stop the game and exit anytime (releasing the terminal).
 
-## 💻 Installation
+## 🌱  How to start this project
 
-1. Clone this repository: 
+Do not clone this repository.
 
-```sh
-$ git clone https://github.com/breatheco-de/exercise-tictactoe-cli-python
-```
+1. The first step to start coding is cloning the [react.js boilerplate](https://github.com/4GeeksAcademy/flask-rest-hello) on your local computer or gitpod.
+
+a) If using Gitpod you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/flask-rest-hello).
+b) If working locally type the following command from your command line: `git clone https://github.com/4GeeksAcademy/flask-rest-hello`.
+
+💡 Important: Remember to create a new repository, update the remote, and upload the code to your new repository.
+
 
 2. Run the app by typing on the terminal:
 
