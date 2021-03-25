@@ -35,8 +35,7 @@ Do not clone this repository.
 a) If using Gitpod you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/flask-rest-hello).
 b) If working locally type the following command from your command line: `git clone https://github.com/4GeeksAcademy/flask-rest-hello`.
 
-💡 Important: Remember to create a new repository, update the remote, and upload the code to your new repository.
-
+💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
 2. Run the app by typing on the terminal:
 
