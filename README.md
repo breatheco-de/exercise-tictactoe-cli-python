@@ -1,7 +1,9 @@
+<!--hide-->
 # Create a TicTacToe CLI using Python
+<!--endhide-->
 
 You will practice:
-1. Python lists/arrays
+1. Python lists/arrays.
 2. Creating a two dimensional matrix with Python
 3. Using the while loop to avoid your application from ending.
 4. Using conditionals.
@@ -26,7 +28,7 @@ def new_game():
 6. The game can be reset (start again) any time.
 7. The user must stop the game and exit anytime (releasing the terminal).
 
-## 🌱  How to start this project
+## 🌱 How to start this project
 
 Do not clone this repository.
 
