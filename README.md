@@ -28,6 +28,8 @@ def new_game():
 6. The game can be reset (start again) any time.
 7. The user must stop the game and exit anytime (releasing the terminal).
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱 How to start this project
 
 Do not clone this repository.
@@ -44,3 +46,5 @@ b) If working locally type the following command from your command line: `git cl
 ```bash
 $ python3 app.py
 ```
+
+</onlyfor>
