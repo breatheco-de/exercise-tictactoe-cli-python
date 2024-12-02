@@ -28,6 +28,8 @@ def new_game():
 6. El juego se puede reiniciar (empezar de nuevo) en cualquier momento.
 7. El usuario debe detener el juego y salir en cualquier momento (liberando el terminal).
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱 Cómo empezar este proyecto
 
 No clones este repositorio.
@@ -45,7 +47,7 @@ bash
 ```bash
 $ python3 app.py
 ```
-
+</onlyfor>
 
 
 
