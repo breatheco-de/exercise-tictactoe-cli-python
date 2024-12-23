@@ -32,16 +32,19 @@ def new_game():
   
 ## 🌱 Cómo empezar este proyecto
 
-No clones este repositorio.
+No clones este repositorio porque usaremos una plantilla diferente.  
 
-1. El primer paso para empezar a codificar es clonar el [boilerplate de python](https://github.com/4GeeksAcademy/flask-rest-hello) en tu computadora local o en gitpod.
+Recomendamos abrir el `boilerplate de python`,  utilizando una herramienta de aprovisionamiento como [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternativamente, puedes clonar el repositorio de [GitHub](https://4geeks.com/es/how-to/como-clonar-un-repositorio-de-github) en tu computadora local utilizando el comando `git clone`.  
 
-a) Si usas Gitpod puedes clonar el boilerplate haciendo [clic aquí](https://github.com/4GeeksAcademy/flask-rest-hello).
-b) Si trabajas localmente, escribe el siguiente comando desde tu línea de comandos: `git clone https://github.com/4GeeksAcademy/flask-rest-hello`.
+Este es el repositorio que necesitas abrir o clonar:  
+
+```sh
+$ git clone https://github.com/4GeeksAcademy/flask-rest-hello
+```
 
 💡 Importante: Recuerda crear un nuevo repositorio, actualizar el remoto (`git remote set-url origin <your new url>`), y subir el código a tu nuevo repositorio usando `add`, `commit` y `push`.
 
-2. Ejecuta la aplicación escribiendo en el terminal:
+Luego, ejecuta la aplicación escribiendo en el terminal:
 bash
 
 ```bash
