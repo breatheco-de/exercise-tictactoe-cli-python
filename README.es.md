@@ -32,24 +32,26 @@ def new_game():
   
 ## 🌱 Cómo empezar este proyecto
 
-No clones este repositorio porque usaremos una plantilla diferente.  
+Hay dos formas de hacerlo:
 
-Recomendamos abrir el `boilerplate de python`,  utilizando una herramienta de aprovisionamiento como [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternativamente, puedes clonar el repositorio de [GitHub](https://4geeks.com/es/how-to/como-clonar-un-repositorio-de-github) en tu computadora local utilizando el comando `git clone`.  
+a) Abrir este enlace con [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod) en tu navegador: https://github.com/codespaces/new/?repo=4GeeksAcademy/python-hello
 
-Este es el repositorio que necesitas abrir o clonar:  
+b) Clonar este repositorio localmente en tu computador:
 
 ```sh
-$ git clone https://github.com/4GeeksAcademy/flask-rest-hello
+$ git clone https://github.com/4GeeksAcademy/python-hello
 ```
 
-💡 Importante: Recuerda crear un nuevo repositorio, actualizar el remoto (`git remote set-url origin <your new url>`), y subir el código a tu nuevo repositorio usando `add`, `commit` y `push`.
+### Pasos
 
-Luego, ejecuta la aplicación escribiendo en el terminal:
-bash
+- Si trabajas localmente, debe tener python [instalado](https://4geeks.com/es/how-to/como-instalar-python).
 
-```bash
-$ python3 app.py
-```
+- Deberías abrir el terminal en la ruta de esta plantilla y ejecutar `$ python3 app.py`, si todo funciona correctamente, debería mostrar `Hello World` en el terminal.
+
+- Puedes probar tu código escribiendo `$ python3 test.py`.
+
+💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+
 </onlyfor>
 
 

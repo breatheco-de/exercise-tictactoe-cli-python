@@ -32,22 +32,24 @@ def new_game():
   
 ## 🌱 How to start this project
 
-Do not clone this repository.
+There are 2 ways to start: 
 
-We recommend opening the `python boilerplate`, using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can [clone the GitHub repository](https://4geeks.com/how-to/github-clone-repository) on your local computer using the `git clone` command.
+a) Open this link in your browser with [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod): https://github.com/codespaces/new/?repo=4GeeksAcademy/python-hello
 
-This is the repository you need to open or clone:
-
-```sh
-$ git clone https://github.com/4GeeksAcademy/flask-rest-hello
-```
-
-💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
-
-Then, run the app by typing on the terminal:
+b) You can clone this repository on your local computer:
 
 ```bash
-$ python3 app.py
+$ git clone https://github.com/4GeeksAcademy/python-hello
 ```
+
+### Steps
+
+- If working locally, you should have python [installed](https://4geeks.com/how-to/how-to-install-python).
+
+- You should open the terminal on the path of this template and run `$ python3 app.py`, if everything works correctly, it should show `Hello World` on the terminal.
+
+- You can test your code by typing: `$ python3 test.py`.
+
+💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
 </onlyfor>
