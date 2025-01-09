@@ -36,7 +36,7 @@ There are 2 ways to start:
 
 a) Open this link in your browser with [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod): https://github.com/codespaces/new/?repo=4GeeksAcademy/python-hello
 
-b) You can clone this repository on your local computer:
+b) You can clone the following repository on your local computer:
 
 ```bash
 $ git clone https://github.com/4GeeksAcademy/python-hello
