@@ -28,24 +28,31 @@ def new_game():
 6. El juego se puede reiniciar (empezar de nuevo) en cualquier momento.
 7. El usuario debe detener el juego y salir en cualquier momento (liberando el terminal).
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱 Cómo empezar este proyecto
 
-No clones este repositorio.
+Hay dos formas de hacerlo:
 
-1. El primer paso para empezar a codificar es clonar el [boilerplate de python](https://github.com/4GeeksAcademy/flask-rest-hello) en tu computadora local o en gitpod.
+a) Abrir este enlace con [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod) en tu navegador: https://github.com/codespaces/new/?repo=4GeeksAcademy/python-hello
 
-a) Si usas Gitpod puedes clonar el boilerplate haciendo [clic aquí](https://github.com/4GeeksAcademy/flask-rest-hello).
-b) Si trabajas localmente, escribe el siguiente comando desde tu línea de comandos: `git clone https://github.com/4GeeksAcademy/flask-rest-hello`.
+b) Clonar el siguiente repositorio localmente en tu computador:
 
-💡 Importante: Recuerda crear un nuevo repositorio, actualizar el remoto (`git remote set-url origin <your new url>`), y subir el código a tu nuevo repositorio usando `add`, `commit` y `push`.
-
-2. Ejecuta la aplicación escribiendo en el terminal:
-bash
-
-```bash
-$ python3 app.py
+```sh
+$ git clone https://github.com/4GeeksAcademy/python-hello
 ```
 
+### Pasos
+
+- Si trabajas localmente, debe tener python [instalado](https://4geeks.com/es/how-to/como-instalar-python).
+
+- Deberías abrir el terminal en la ruta de esta plantilla y ejecutar `$ python3 app.py`, si todo funciona correctamente, debería mostrar `Hello World` en el terminal.
+
+- Puedes probar tu código escribiendo `$ python3 test.py`.
+
+💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+
+</onlyfor>
 
 
 
