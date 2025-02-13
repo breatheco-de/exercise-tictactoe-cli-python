@@ -1,7 +1,13 @@
 {
 	"slug" : "tictactoe-cli-python",
-	"title" : "TicTacToe CLI with Python",
-	"description": "Create a TicTacToe List CLI using Python",
+	"title" :  {
+		"us": "TicTacToe CLI with Python",
+		"es": "TicTacToe CLI con Python"
+	},
+	"description": {
+		"us": "Develop a TicTacToe CLI in Python to practice lists, 2D matrices, loops, and conditionals. Implement play, check_for_winner, and new_game functions. Players take turns as ‘X’ and ‘O’. The game checks for winners, allows resets, and can be exited anytime.",
+		"es": "Desarrolla un CLI de TicTacToe en Python para practicar listas, matrices 2D, bucles y condicionales. Implementa las funciones play, check_for_winner y new_game. Los jugadores se turnan como ‘X’ y ‘O’. El juego verifica ganadores, permite reinicios y puede cerrarse en cualquier momento."
+	},
 	"preview": "https://github.com/breatheco-de/exercise-tictactoe-cli-python/blob/master/preview.gif?raw=true",
 	"status": "published",
 	"live-url": "",
@@ -14,5 +20,8 @@
 		{ "badge": "identator", "points": 10 }
 	],
     "autoPlay": false,
-    "projectType": "project"
+    "projectType": "project",
+    "telemetry": {
+	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=179"
+	}
 }
